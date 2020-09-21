@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Abel 👋
+
+I'm an iOS Engineer from Caracas Venezuela based in Prague Czech Republic, working at [STRV](https://www.strv.com/).
 
 <!--
 **osorioabel/osorioabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
