@@ -1,6 +1,6 @@
 ### Hi there, I'm Abel 👋
 
-I'm an iOS Engineer from Caracas Venezuela based in Zaragoza Spain, working at [adidas](https://www.adidas.com/).
+I'm a Senior iOS Engineer from Caracas Venezuela based in Zaragoza Spain, working at [adidas](https://www.adidas.com/).
 
 <!--
 **osorioabel/osorioabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
